@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043759854540",
+    "project_id": "cmsc23-todo-app-rglandicho",
+    "storage_bucket": "cmsc23-todo-app-rglandicho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043759854540:android:14cb7ae8e308bf0a3ea369",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043759854540-23goduni6ul9uee4fc2tb1ce5chl180s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qon5AkMhMANLYtD-V0gYcN8GdrDlA8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043759854540-23goduni6ul9uee4fc2tb1ce5chl180s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
